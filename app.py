@@ -1,12 +1,5 @@
 import time
 import edgeiq
-"""
-Use object detection to detect human faces in the frame in realtime.
-
-To change the computer vision model, the engine and accelerator,
-and add additional dependencies read this guide:
-https://alwaysai.co/docs/application_development/configuration_and_packaging.html
-"""
 
 
 def main():

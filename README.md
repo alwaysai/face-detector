@@ -1,6 +1,6 @@
 # Face Detector
 
-Detect faces in a real-time camera stream with alwaysAI.
+Detect human faces in a real-time camera stream with alwaysAI.
 
 ## Requirements
 * [alwaysAI account](https://alwaysai.co/auth?register=true)
@@ -23,6 +23,8 @@ To start the app:
 ```
 aai app start
 ```
+
+To change the computer vision model, the engine and accelerator, and add additional dependencies read [this guide](https://alwaysai.co/docs/application_development/configuration_and_packaging.html).
 
 ## Support
 * [Documentation](https://alwaysai.co/docs/)
