@@ -1,6 +1,6 @@
 # Face Detector
 
-Detect human faces in a real-time camera stream with alwaysAI.
+Use [Object Detection](https://alwaysai.co/docs/application_development/core_computer_vision_services.html#object-detection) to detect human faces in a real-time camera stream.
 
 ## Requirements
 * [alwaysAI account](https://alwaysai.co/auth?register=true)
